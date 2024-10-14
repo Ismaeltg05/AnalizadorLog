@@ -22,4 +22,4 @@ El informe se genera en un archivo de texto donde se resumen estos datos.
 
 1. **Clona el repositorio** (o descarga el código fuente):
    ```bash
-   git clone https://github.com/Ismaeltg05/AnalizadorLog2
+   git clone https://github.com/Ismaeltg05/AnalizadorLog.git
